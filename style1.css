@@ -1,0 +1,25 @@
+h1{
+    background-color: #6a74c9;
+    text-decoration: dotted;
+}
+
+
+.Things li{
+    text-size-adjust: 10px;
+    background-color: beige;
+    font-size: large;
+    
+}
+
+.dua li{
+    /* background-color: #6a74c9; */
+    font-size: larger;
+    text-transform: capitalize;
+    /* text-decoration: underline; */
+}
+
+.footer {
+    background-color: #6a74c9;
+
+
+}
